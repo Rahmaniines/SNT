@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Simple</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenue sur mon site</h1>
+        <nav>
+            <ul>
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#about">À propos</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="accueil">
+        <section>
+            <h2>Introduction</h2>
+            <p>Voici un site web simple pour démontrer les bases de HTML et CSS.</p>
+        </section>
+
+        <section id="about">
+            <h2>À propos</h2>
+            <p>Ce site a été créé pour apprendre à utiliser HTML et CSS ensemble.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Vous pouvez me contacter par email : <a href="mailto:contact@monsite.com">contact@monsite.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Mon Site Simple. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
