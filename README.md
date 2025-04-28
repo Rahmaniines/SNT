@@ -22,7 +22,7 @@
     <main id="accueil">
         <section>
             <h2>Introduction</h2>
-            <p>Voici un site web simple pour démontrer les bases de HTML et CSS.</p>
+            <p>Voici un site web simple pour les cours d'snt .</p>
         </section>
 
         <section id="about">
